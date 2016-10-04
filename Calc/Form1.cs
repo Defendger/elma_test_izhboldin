@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Calc_ikolotov;
+//using Calc_ikolotov;
 using TextFileHistory;
 
 namespace Calc
